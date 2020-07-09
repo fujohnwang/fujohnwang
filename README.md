@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi there 👋 
+
+My Name is 王福强，原同事喜欢称呼我“扶墙老师”， 我一直都是一个很“个儿”的人，写过代码写过书，做过架构画过图，《Spring揭秘》， 《Springboot揭秘》、《深度思考揭秘》与《极简管理课》作者，腾讯云TVP，阿里Canal产品技术奠基人，独立顾问，撰稿人…
+
+## 我的博客
+http://afoo.me
+
+## 我的公众号 
+**福强**
+
+## 我的公司 
+http://keevol.com
 
 <!--
 **fujohnwang/fujohnwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
