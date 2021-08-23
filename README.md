@@ -19,6 +19,8 @@ https://keevol.cn
 
 ## 我的公众号 (**福强**)
 
+欢迎扫描下方二维码关注（scan the QRCode below to get more details)
+
 ![](https://afoo.me/images/mp_footer.jpeg)
 
 
