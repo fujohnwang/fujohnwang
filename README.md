@@ -8,7 +8,7 @@ I wrote, write and still writing codes and words,  the books I wrote including �
 
 I was (Chief) architect and CTO for several companies,  but now I run my own startup and work as independent consultant.
 
-I am TVP of Tencent Cloud and founder of Canal (first generation CDC middleware of Albiaba).
+I am TVP of Tencent Cloud and founder of Canal (first generation CDC middleware of Alibaba).
 
 
 ## 我的博客
