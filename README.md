@@ -18,6 +18,9 @@ https://keevol.cn
 ## 我的博客
 https://afoo.me
 
+### 我的著作
+https://afoo.me/books.html
+
 ## 我的twitter
 https://twitter.com/fujohnwang
 
