@@ -11,11 +11,17 @@ I was (Chief) architect and CTO for several companies,  but now I run my own sta
 I am TVP of Tencent Cloud and founder of Canal (first generation CDC middleware of Alibaba).
 
 
+## 我的公司 
+https://keevol.cn
+
 ## 我的博客
 https://afoo.me
 
-## 我的公司 
-https://keevol.cn
+## 我的twitter
+https://twitter.com/fujohnwang
+
+## 我的youtube
+https://www.youtube.com/channel/UCxhsCy-gAGwRnG_z7Wqrs3A
 
 ## 我的公众号 (**福强**)
 
