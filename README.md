@@ -19,7 +19,9 @@ https://keevol.cn
 https://afoo.me
 
 ### 我的著作
-https://afoo.me/books.html
+- https://afoo.me/books.html
+  - [我的面包多](https://mianbaoduo.com/o/fgg)
+  - [我的Gumroad](https://app.gumroad.com/wfq)
 
 ## 我的twitter
 https://twitter.com/fujohnwang
