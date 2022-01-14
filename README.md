@@ -5,7 +5,13 @@
 
 My name is **FuqiangWang** (Call me Darren if you like). 
 
-I wrote, write and still writing codes and words,  the books I wrote including 《Unveil Spring》、《Unveil SpringBoot》、[《The way of deep thinking》、《Lead & Management is simple》， even 《Technology、Business and Human Beings》](https://app.gumroad.com/wfq)
+I wrote, write and still writing codes and words,  the books I wrote including:
+- 《Unveil Spring》、
+- 《Unveil SpringBoot》、
+- [《The way of deep thinking》](https://app.gumroad.com/wfq)
+- [《Lead & Management is simple》](https://app.gumroad.com/wfq)
+- [《Technology、Business and Human Beings》](https://app.gumroad.com/wfq)
+- [Simple Svelte](https://app.gumroad.com/wfq)
 
 I was (Chief) architect and CTO for several companies,  but now I run my own startup and work as independent consultant in tech, management and strategy fields.
 
