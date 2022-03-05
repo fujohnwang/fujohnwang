@@ -8,6 +8,7 @@
 - [《深度思考揭秘》](https://app.gumroad.com/wfq)
 - [《极简管理课》](https://app.gumroad.com/wfq)
 - [《技术、商业与人》](https://app.gumroad.com/wfq)
+- [《坑获》](https://app.gumroad.com/wfq)
 - [《Simple Svelte》](https://app.gumroad.com/wfq)
 
 My name is **FuqiangWang** (Call me Darren if you like). 
@@ -18,6 +19,7 @@ I wrote, write and still writing codes and words,  the books I wrote including:
 - [The way of deep thinking](https://app.gumroad.com/wfq)
 - [Simple Philosophy of Lead & Management](https://app.gumroad.com/wfq)
 - [Technology、Business and Human Beings](https://app.gumroad.com/wfq)
+- [Stories of Trial&Error](https://app.gumroad.com/wfq)
 - [Simple Svelte](https://app.gumroad.com/wfq)
 
 I was (Chief) architect and CTO for several companies,  but now I run my own startup and work as independent consultant in tech, management and strategy fields.
