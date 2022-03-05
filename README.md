@@ -18,7 +18,7 @@ I wrote, write and still writing codes and words,  the books I wrote including:
 - [Unveil SpringBoot](https://book.douban.com/subject/26808298/)
 - [The way of deep thinking](https://app.gumroad.com/wfq)
 - [Simple Philosophy of Lead & Management](https://app.gumroad.com/wfq)
-- [Technology、Business and Human Beings](https://app.gumroad.com/wfq)
+- [Technology、Business and Humankind](https://app.gumroad.com/wfq)
 - [Stories of Trial&Error](https://app.gumroad.com/wfq)
 - [Simple Svelte](https://app.gumroad.com/wfq)
 
