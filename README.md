@@ -44,11 +44,21 @@ https://twitter.com/fujohnwang
 ## 我的youtube
 https://www.youtube.com/channel/UCxhsCy-gAGwRnG_z7Wqrs3A
 
+## 我的视频号
+
+| 架构百科  | 不卖温柔  | 
+|:-------------: |:---------------:|
+| ![sph_jiagoubaike](https://user-images.githubusercontent.com/451506/164214605-1c62345c-0891-473f-9f5f-3748a0652320.jpg) | ![sph_bumaiwenrou pic](https://user-images.githubusercontent.com/451506/164214626-3c372bea-ab19-4212-8011-1ad2cb0c7efe.jpg) | 
+
+
+
 ## 我的公众号 (**福强**)
 
 欢迎扫描下方二维码关注（scan the QRCode below to get more details)
 
 ![](https://afoo.me/images/mp_footer.jpeg)
+
+
 
 
 
