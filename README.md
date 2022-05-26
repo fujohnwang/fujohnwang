@@ -1,7 +1,7 @@
 
 <img width="200" alt="logo" src="https://user-images.githubusercontent.com/451506/131448729-ac5ee933-ffb6-4912-9708-7d3865424ac4.png">
 
-我叫王福强，原同事喜欢称呼我“扶墙老师”， 我一直都是一个很“个儿”的人，写过代码写过书，做过架构画过图，多本书作者，腾讯云TVP，**原**阿里Canal产品技术奠基人，技术、管理与组织顾问。
+我叫王福强，原同事喜欢称呼我“扶墙老师”， 20+年技术老兵，我一直都是一个很“个儿”的人，写过代码写过书，做过架构画过图，多本书作者，腾讯云TVP，**原**阿里Canal产品技术奠基人，技术战略、管理与组织顾问。
 
 - [《Spring揭秘》](https://book.douban.com/subject/3897837/)
 - [《Springboot揭秘》](https://book.douban.com/subject/26808298/)
