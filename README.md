@@ -41,6 +41,8 @@ https://afoo.me
 ## 我的twitter
 https://twitter.com/fujohnwang
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=fujohnwang)](https://github.com/gazf/github-readme-twitter)
+
 ## 我的youtube
 https://www.youtube.com/channel/UCxhsCy-gAGwRnG_z7Wqrs3A
 
