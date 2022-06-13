@@ -21,7 +21,9 @@ https://afoo.me
 https://keevol.cn
 
 
-### 我的书（BOOKS)
+### 我的创作
+
+#### 书（BOOKS)
 - https://afoo.me/books.html
   - [我的面包多](https://mianbaoduo.com/o/fgg)
   - [我的Gumroad](https://app.gumroad.com/wfq)
@@ -36,6 +38,10 @@ https://keevol.cn
 | [《坑获》](https://app.gumroad.com/wfq)| [Stories of Trial&Error](https://app.gumroad.com/wfq) | 
 | [《Simple Svelte》](https://app.gumroad.com/wfq) |  [Simple Svelte](https://app.gumroad.com/wfq) | 
 
+#### 课（Online Trainings)
+- <https://afoo.me/ke>
+  - [我的面包多](https://mianbaoduo.com/o/fgg)
+  - [我的Gumroad](https://app.gumroad.com/wfq)
 
 
 ## 我的twitter
@@ -44,13 +50,18 @@ https://twitter.com/fujohnwang
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=fujohnwang&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
 ## 我的youtube
-https://www.youtube.com/channel/UCxhsCy-gAGwRnG_z7Wqrs3A
+
+- [扶墙老师](https://www.youtube.com/channel/UCxhsCy-gAGwRnG_z7Wqrs3A)
+- [架构百科](https://www.youtube.com/channel/UCG4NNmSjcCQGv3T25JBlHTQ)
+
 
 ## 我的视频号
 
-| 架构百科  | 不卖温柔  | 
+| 扶墙老师  | 架构百科  | 
 |:-------------: |:---------------:|
-| ![sph_jiagoubaike](https://user-images.githubusercontent.com/451506/164214605-1c62345c-0891-473f-9f5f-3748a0652320.jpg) | ![sph_bumaiwenrou pic](https://user-images.githubusercontent.com/451506/164214626-3c372bea-ab19-4212-8011-1ad2cb0c7efe.jpg) | 
+| ![image](https://user-images.githubusercontent.com/451506/173383447-27b92f9a-90c7-4c30-90aa-678b83f4f202.png)
+ | ![image](https://user-images.githubusercontent.com/451506/173383499-e9fcc8de-a5a0-4b5c-87f7-4e925b83a039.png)
+ | 
 
 
 
