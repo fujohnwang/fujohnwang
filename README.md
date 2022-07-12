@@ -1,17 +1,7 @@
 
 <img width="200" alt="logo" src="https://user-images.githubusercontent.com/451506/131448729-ac5ee933-ffb6-4912-9708-7d3865424ac4.png">
 
-| 我叫王福强，原同事喜欢称呼我“扶墙老师”， 20+年技术老兵，我一直都是一个很“个儿”的人，写过代码写过书，做过架构画过图，多本书作者，腾讯云TVP，**原**阿里Canal产品技术奠基人，技术战略、管理与组织顾问。
-
-My name is **FuqiangWang** (Call me Darren if you like). 
-
-I wrote, write and still writing codes and words.
-
-I was (Chief) architect and CTO for several companies,  but now I run my own startup and work as independent consultant in tech, management and strategy fields.
-
-I am TVP of Tencent Cloud and founder of Canal (first generation CDC middleware of Alibaba). 
-
-
+王福强，aka.扶墙老师，[架构教练（架构师个人成长教练）](https://afoo.me/ask)，20+年互联网技术人，《Spring揭秘》，《SpringBoot揭秘》的作者，前阿里资深架构师，多本书作者，[腾讯云TVP](https://cloud.tencent.com/tvp/175)，**原**阿里Canal产品技术奠基人, 写代码的CTO，如履薄冰的CEO😂
 
 ## 我的博客
 https://afoo.me
