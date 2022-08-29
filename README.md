@@ -3,7 +3,6 @@
 
 王福强，aka.扶墙老师，[架构教练（架构师个人成长教练）](https://afoo.me/ask)，20+年互联网技术人，《Spring揭秘》，《SpringBoot揭秘》的作者，前阿里资深架构师，多本书作者，[腾讯云TVP](https://cloud.tencent.com/tvp/175)，**原**阿里Canal产品技术奠基人, 写代码的CTO，如履薄冰的CEO😂
 
-<img src="https://camo.githubusercontent.com/288e0a66e34dae74e56ece998b3146a5f75d8babc2bc0e80f8561fa8ba04d9df/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6475726174696f6e3d34303030266c696e65733d48692b74686572652532432b49276d2b5461636b2b4368656e2545462542432538313b636f6e736f6c652e6c6f672825323248656c6c6f2b576f726c6421253232293b537461792b48756e6772792c2b537461792b466f6f6c6973682e" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?duration=4000&amp;lines=Hi+there%2C+I'm+Darren+Wang%EF%BC%81;console.log(%22Be+Yourself!%22);Stay+Hungry,+Stay+Foolish." style="max-width: 100%;">
 
 ## 我的博客
 https://afoo.me
