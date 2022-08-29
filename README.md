@@ -34,6 +34,10 @@ https://keevol.cn
   - [我的面包多](https://mianbaoduo.com/o/fgg)
   - [我的Gumroad](https://app.gumroad.com/wfq)
 
+### 咨询（Consulting）
+- https://afoo.me/ama
+- https://afoo.me/ask
+
 
 ## 我的twitter
 https://twitter.com/fujohnwang
