@@ -46,7 +46,7 @@ https://twitter.com/fujohnwang
 
 ## 我的youtube
 
-- [扶墙老师](https://www.youtube.com/channel/UCxhsCy-gAGwRnG_z7Wqrs3A)
+- [扶墙老师](https://www.youtube.com/c/fujohnwang)
 - [架构百科](https://www.youtube.com/channel/UCG4NNmSjcCQGv3T25JBlHTQ)
 
 ## 我的stackoverflow
