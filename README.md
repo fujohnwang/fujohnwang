@@ -1,10 +1,17 @@
 [王福强](https://afoo.me)，aka.扶墙老师，
+
 20+年互联网技术人，
+
 《Spring揭秘》，《SpringBoot揭秘》的作者，
+
 前阿里资深架构师，
+
 [腾讯云TVP](https://cloud.tencent.com/tvp/175)，
+
 **原**阿里Canal产品技术奠基人, 
+
 写代码的CTO，
+
 如履薄冰的CEO😂
 
 <img width="200" alt="logo" src="https://user-images.githubusercontent.com/451506/131448729-ac5ee933-ffb6-4912-9708-7d3865424ac4.png">
