@@ -45,8 +45,9 @@ https://keevol.cn
 
 ### 课（Online Trainings)
 - <https://afoo.me/ke>
-  - [我的面包多](https://mianbaoduo.com/o/fgg)
   - [我的Gumroad](https://app.gumroad.com/wfq)
+  - ~~[我的面包多](https://mianbaoduo.com/o/fgg)~~
+
 
 ### 咨询（Consulting）
 - https://afoo.me/ama
