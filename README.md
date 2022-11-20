@@ -28,9 +28,12 @@ https://keevol.cn
 
 ## 我的创作
 
+### [福报Premium](https://wfq.gumroad.com/l/fb)
+![fb_cta](https://user-images.githubusercontent.com/451506/202899640-185226ad-b250-4761-817e-054c50e352f4.png)
+
+
 ### 书（BOOKS)
 - https://afoo.me/books.html
-  - [我的面包多](https://mianbaoduo.com/o/fgg)
   - [我的Gumroad](https://app.gumroad.com/wfq)
 
 | 中文名称  | English Names of Books | 
@@ -46,7 +49,6 @@ https://keevol.cn
 ### 课（Online Trainings)
 - <https://afoo.me/ke>
   - [我的Gumroad](https://app.gumroad.com/wfq)
-  - ~~[我的面包多](https://mianbaoduo.com/o/fgg)~~
 
 
 ### 咨询（Consulting）
