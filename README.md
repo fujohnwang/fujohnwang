@@ -60,8 +60,6 @@ https://keevol.cn
 ## 我的twitter
 https://twitter.com/fujohnwang
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=fujohnwang&layout=wide)](https://github.com/gazf/github-readme-twitter)
-
 ## 我的youtube
 
 - [扶墙老师](https://www.youtube.com/c/fujohnwang) - <https://youtube.com/@afoo>
