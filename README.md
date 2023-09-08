@@ -34,17 +34,17 @@ https://keevol.cn
 
 ### 书（BOOKS)
 - https://afoo.me/books.html
-  - [我的Gumroad](https://app.gumroad.com/wfq)
+  - [我的Gumroad](https://store.afoo.me)
 
 | 中文名称  | English Names of Books | 
 |:-------------- |:----------------|
 | [《Spring揭秘》](https://book.douban.com/subject/3897837/) | [Unveil Spring](https://book.douban.com/subject/3897837/) | 
 | [《Springboot揭秘》](https://book.douban.com/subject/26808298/)| [Unveil SpringBoot](https://book.douban.com/subject/26808298/) | 
-| [《深度思考揭秘》](https://app.gumroad.com/wfq)| [The way of deep thinking](https://app.gumroad.com/wfq) | 
-| [《极简管理课》](https://app.gumroad.com/wfq)| [Simple Philosophy of Lead & Management](https://app.gumroad.com/wfq) | 
-| [《技术、商业与人》](https://app.gumroad.com/wfq)| [Technology、Business and Humanality](https://app.gumroad.com/wfq) | 
-| [《坑获》](https://app.gumroad.com/wfq)| [Stories of Trial&Error](https://app.gumroad.com/wfq) | 
-| [《Simple Svelte》](https://app.gumroad.com/wfq) |  [Simple Svelte](https://app.gumroad.com/wfq) | 
+| [《深度思考揭秘》](https://store.afoo.me)| [The way of deep thinking](https://store.afoo.me) | 
+| [《极简管理课》](https://store.afoo.me)| [Simple Philosophy of Lead & Management](https://store.afoo.me) | 
+| [《技术、商业与人》](https://store.afoo.me)| [Technology、Business and Humanality](https://store.afoo.me) | 
+| [《坑获》](https://store.afoo.me)| [Stories of Trial&Error](https://store.afoo.me) | 
+| [《Simple Svelte》](https://store.afoo.me) |  [Simple Svelte](https://store.afoo.me) | 
 | [《HTMX揭秘》](https://store.afoo.me/l/htmx) |  [Unveil HTMX](https://store.afoo.me/l/htmx) | 
 
 ### 课（Online Trainings)
