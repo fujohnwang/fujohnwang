@@ -45,15 +45,13 @@ https://keevol.cn
 | [《技术、商业与人》](https://app.gumroad.com/wfq)| [Technology、Business and Humanality](https://app.gumroad.com/wfq) | 
 | [《坑获》](https://app.gumroad.com/wfq)| [Stories of Trial&Error](https://app.gumroad.com/wfq) | 
 | [《Simple Svelte》](https://app.gumroad.com/wfq) |  [Simple Svelte](https://app.gumroad.com/wfq) | 
+| [《HTMX揭秘》](https://store.afoo.me/l/htmx) |  《HTMX揭秘》](https://store.afoo.me/l/htmx) | 
 
 ### 课（Online Trainings)
-- <https://afoo.me/ke>
-  - [我的Gumroad](https://app.gumroad.com/wfq)
-
+- [AI课堂](https://edu.afoo.me/)
 
 ### 咨询（Consulting）
-- https://afoo.me/ama
-- https://afoo.me/ask
+- [https://afoo.me/consulting.html](https://afoo.me/consulting.html)
 - [Buy Me A Coffee](https://ko-fi.com/fubao)
 
 
