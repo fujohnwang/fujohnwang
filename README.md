@@ -28,9 +28,6 @@ https://keevol.cn
 
 ## 我的创作
 
-### [福报Premium](https://wfq.gumroad.com/l/fb)
-![fb_cta](https://afoo.me/images/fb_subscribe.jpg)
-
 
 ### 书（BOOKS)
 - https://afoo.me/books.html
@@ -53,6 +50,10 @@ https://keevol.cn
 ### 咨询（Consulting）
 - [https://afoo.me/consulting.html](https://afoo.me/consulting.html)
 - [Buy Me A Coffee](https://ko-fi.com/fubao)
+
+### [福报Premium](https://wfq.gumroad.com/l/fb)
+![fb_cta](https://afoo.me/images/fb_subscribe.jpg)
+
 
 
 ## 我的twitter
