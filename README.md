@@ -4,7 +4,7 @@
 
 《Spring揭秘》，《SpringBoot揭秘》的作者，
 
-前阿里资深架构师，
+**前**阿里资深架构师，
 
 [腾讯云TVP](https://cloud.tencent.com/tvp/175)，
 
@@ -49,7 +49,6 @@ https://keevol.cn
 
 ### 咨询（Consulting）
 - [https://afoo.me/consulting.html](https://afoo.me/consulting.html)
-- [Buy Me A Coffee](https://ko-fi.com/fubao)
 
 ### [福报Premium](https://wfq.gumroad.com/l/fb)
 ![fb_cta](https://afoo.me/images/fb_subscribe.jpg)
