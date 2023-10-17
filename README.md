@@ -1,4 +1,4 @@
-[王福强](https://afoo.me)，aka.扶墙老师，
+[王福强](https://afoo.me)，
 
 20+年互联网技术人，
 
@@ -12,7 +12,7 @@
 
 写代码的CTO，
 
-如履薄冰的CEO😂
+如履薄冰的CEO
 
 <img width="200" alt="logo" src="https://user-images.githubusercontent.com/451506/131448729-ac5ee933-ffb6-4912-9708-7d3865424ac4.png">
 
