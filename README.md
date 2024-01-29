@@ -79,7 +79,8 @@ https://keevol.cn
 
 欢迎扫描下方二维码关注（scan the QRCode below to get more details)
 
-![wechat qrcode](https://github.com/fujohnwang/fujohnwang/assets/451506/1aadfd43-0825-4fa5-b139-864d21bfe784)
+![qrcode 二维码](https://github.com/fujohnwang/fujohnwang/assets/451506/621b5f9f-2320-4358-a6ba-da8c84c6f6c3)
+
 
 
 ## 福强打造的免费工具
