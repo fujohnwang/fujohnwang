@@ -82,7 +82,7 @@ https://twitter.com/fujohnwang
 ![wechat qrcode](https://github.com/fujohnwang/fujohnwang/assets/451506/1aadfd43-0825-4fa5-b139-864d21bfe784)
 
 
-## 打造的工具
+## 我打造的免费工具
 
 <a href="https://afoo.me/tools.html">
   <img width="1214" alt="image" src="https://github.com/fujohnwang/fujohnwang/assets/451506/5f483bbb-5e66-4aab-a862-7a6ee8a1979d">
