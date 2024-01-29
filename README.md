@@ -82,22 +82,13 @@ https://twitter.com/fujohnwang
 ![](https://afoo.me/images/mp_footer.jpeg)
 
 
+## 打造的工具
+
+<a href="https://afoo.me/tools.html">
+  <img width="1214" alt="image" src="https://github.com/fujohnwang/fujohnwang/assets/451506/5f483bbb-5e66-4aab-a862-7a6ee8a1979d">
+</a>
 
 
 
-<!--
-**fujohnwang/fujohnwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
