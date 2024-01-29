@@ -79,7 +79,7 @@ https://twitter.com/fujohnwang
 
 欢迎扫描下方二维码关注（scan the QRCode below to get more details)
 
-![](https://afoo.me/images/mp_footer.jpeg)
+![wechat qrcode](https://github.com/fujohnwang/fujohnwang/assets/451506/1aadfd43-0825-4fa5-b139-864d21bfe784)
 
 
 ## 打造的工具
