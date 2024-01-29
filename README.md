@@ -69,8 +69,6 @@ https://keevol.cn
 
 ## 福强的视频号
 
-| 福强  | 架构百科  | 
-|:-------------: |:---------------:|
 | ![image](https://user-images.githubusercontent.com/451506/173383447-27b92f9a-90c7-4c30-90aa-678b83f4f202.png) | ![image](https://user-images.githubusercontent.com/451506/173383499-e9fcc8de-a5a0-4b5c-87f7-4e925b83a039.png) | 
 
 
