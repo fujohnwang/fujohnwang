@@ -18,15 +18,15 @@
 
 <a href="https://keevol.cn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1720A9&width=435&lines=Keep+evolution;but+stay+with+yourself;be+who+you+are" alt="Typing SVG" /></a>
 
-## 我的博客
+## 福强的博客
 https://afoo.me
 
 
-## 我的公司 
+## 福强的公司 
 https://keevol.cn
 
 
-## 我的创作
+## 福强的创作
 
 
 ### 书（BOOKS)
@@ -55,34 +55,34 @@ https://keevol.cn
 
 
 
-## 我的twitter
-https://twitter.com/fujohnwang
+## 福强的twitter
+<https://x.afoo.me>
 
-## 我的youtube
+## 福强的youtube
 
 - [扶墙老师](https://www.youtube.com/c/fujohnwang) - <https://youtube.com/@afoo>
 - [架构百科](https://www.youtube.com/channel/UCG4NNmSjcCQGv3T25JBlHTQ) - <https://youtube.com/@jgbk>
 
-## 我的stackoverflow
+## 福强的stackoverflow
 
 <https://stackoverflow.com/users/497905/darrenwang>
 
-## 我的视频号
+## 福强的视频号
 
-| 扶墙老师  | 架构百科  | 
+| 福强  | 架构百科  | 
 |:-------------: |:---------------:|
 | ![image](https://user-images.githubusercontent.com/451506/173383447-27b92f9a-90c7-4c30-90aa-678b83f4f202.png) | ![image](https://user-images.githubusercontent.com/451506/173383499-e9fcc8de-a5a0-4b5c-87f7-4e925b83a039.png) | 
 
 
 
-## 我的公众号 (**福强**)
+## 福强的公众号 (**福强**)
 
 欢迎扫描下方二维码关注（scan the QRCode below to get more details)
 
 ![wechat qrcode](https://github.com/fujohnwang/fujohnwang/assets/451506/1aadfd43-0825-4fa5-b139-864d21bfe784)
 
 
-## 我打造的免费工具
+## 福强打造的免费工具
 
 <a href="https://afoo.me/tools.html">
   <img width="1214" alt="image" src="https://github.com/fujohnwang/fujohnwang/assets/451506/5f483bbb-5e66-4aab-a862-7a6ee8a1979d">
