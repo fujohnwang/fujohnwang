@@ -45,7 +45,8 @@ https://keevol.cn
 | [《HTMX揭秘》](https://store.afoo.me/l/htmx) |  [Unveil HTMX](https://store.afoo.me/l/htmx) | 
 
 ## 课（Online Trainings)
-- [AI课堂](https://edu.afoo.me/)
+- [福强进学堂](https://edu.afoo.me/)
+  -  [福强私学](https://afoo.me/kb)
 
 ## 咨询（Consulting）
 - [https://afoo.me/consulting.html](https://afoo.me/consulting.html)
@@ -86,7 +87,9 @@ https://keevol.cn
   <img width="1214" alt="image" src="https://github.com/fujohnwang/fujohnwang/assets/451506/5f483bbb-5e66-4aab-a862-7a6ee8a1979d">
 </a>
 
+# Github
 
+[https://gitglance.vercel.app/fujohnwang](https://gitglance.vercel.app/fujohnwang)
 
 
 
