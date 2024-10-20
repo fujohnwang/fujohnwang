@@ -31,7 +31,7 @@ https://keevol.cn
 
 ## 书（BOOKS)
 - https://afoo.me/books.html
-  - [我的Gumroad](https://store.afoo.me)
+  - [我的Gumroad](https://store.afoo.me) 
 
 | 中文名称  | English Names of Books | 
 |:-------------- |:----------------|
@@ -46,7 +46,7 @@ https://keevol.cn
 
 ## 课（Online Trainings)
 - [福强进学堂](https://edu.afoo.me/)
-  -  [福强私学](https://afoo.me/kb)
+  -  [福强私学](https://afoo.me/kb) ⭐⭐⭐⭐⭐
 
 ## 咨询（Consulting）
 - [https://afoo.me/consulting.html](https://afoo.me/consulting.html)
