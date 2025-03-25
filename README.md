@@ -1,7 +1,6 @@
-[王福强](https://afoo.me)，
-
 ![FQ_INTRO_2025_v2](https://github.com/user-attachments/assets/09557fb4-d519-4b51-87e9-d747578c4898)
 
+[王福强](https://afoo.me)，
 
 20+年互联网技术人，
 
