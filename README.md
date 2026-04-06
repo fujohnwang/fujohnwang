@@ -50,6 +50,11 @@ https://keevol.cn
 - [福强进学堂](https://edu.afoo.me/)
   -  [福强私学](https://afoo.me/kb) ⭐⭐⭐⭐⭐
 
+## 产品
+
+- [KeeNotes](https://keenotes.afoo.me/)
+- [FooSnippets](https://foosnippets.afoo.me/)
+
 ## 咨询（Consulting）
 - [https://afoo.me/consulting.html](https://afoo.me/consulting.html)
 
