@@ -54,6 +54,7 @@ https://keevol.cn
 
 - [KeeNotes](https://keenotes.afoo.me/)
 - [FooSnippets](https://foosnippets.afoo.me/)
+- [更多...](https://afoo.me/)
 
 ## 咨询（Consulting）
 - [https://afoo.me/consulting.html](https://afoo.me/consulting.html)
